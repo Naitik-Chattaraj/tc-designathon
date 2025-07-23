@@ -3,8 +3,9 @@
   position: sticky;
   top: 0;
   width: 95%;
-  margin: 1rem auto;
+  margin: rem auto;
   padding: 0.4rem 2rem;
+  transform: translateY(50%);
   border-radius: 50px;
   background: rgba(30, 30, 30, 0.25);
   backdrop-filter: blur(18px) saturate(180%);
